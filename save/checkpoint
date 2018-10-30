@@ -1,0 +1,2 @@
+model_checkpoint_path: "sign_classify.ckpt"
+all_model_checkpoint_paths: "sign_classify.ckpt"
